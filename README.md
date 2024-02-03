@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Umer and I like Python.
+👋 Hi, I’m Umer and I like Python.
 
 💻 I love coding and the world of data science.  
 🌐 I enjoy building cool projects and ..... 
