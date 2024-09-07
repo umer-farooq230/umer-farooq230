@@ -1,5 +1,11 @@
 # 💫 About Me:
-A nerd for programming languages and solving real-world projects<br>For some time now I have been learning Machine learning and getting out of the beginner zone<br>Done some Regression problems and Classification projects. <br>Now learning NLP and getting into transformers<br>Love the challenges as they carve one's self into its pure form<br> Find me on umerfarooq230@gmail.com or the football field 
+A nerd for programming languages and solving real-world projects<br>
+---
+For some time now I have been learning Machine learning and getting out of the beginner zone<br>Done some Regression problems and Classification projects. <br>
+Now learning NLP and getting into transformers.<br>
+Love the challenges as they carve one's self into its pure form<br>
+---
+Find me on umerfarooq230@gmail.com or the football field 
 
 
 ## 🌐 Socials:
