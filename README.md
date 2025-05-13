@@ -1,9 +1,23 @@
 # 💫 About Me:
-A nerd for programming languages and solving real-world projects<br>
-For some time now I have been learning Machine learning and getting out of the beginner zone<br>Done some Regression problems and Classification projects. <br>
-Now learning NLP and getting into transformers.<br>
+Picked up programming in 2023.
+Now I spend my time making machines read, write, and occasionally misbehave.
 
 Find me on umerfarooq230@gmail.com or the football field 
+
+
+## 🔍 What I'm Working on Now
+
+* Building NLP-based projects using **transformers**.
+* Fine-tuning models on real-world data to solve specific tasks.
+* Exploring model evaluation, explainability, and deployment.
+
+## 🎯 What's Next?
+
+* Learn **prompt engineering** and deeper aspects of **LLMs**.
+* Dive into **MLOps** and build deployable ML systems.
+* Work on a complete end-to-end ML product.
+
+---
 
 
 ## 🌐 Socials:
