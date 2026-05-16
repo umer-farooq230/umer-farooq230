@@ -2,7 +2,7 @@
 Picked up programming in 2023.
 Now I spend my time making machines read, write, and occasionally misbehave.
 
-Find me on umerfarooq230@gmail.com or the football field 
+Find me on [THE LAB](https://umer-farooq230.github.io/personal-website/) or the football field 
 
 
 ## 🔍 What I'm Working on Now
